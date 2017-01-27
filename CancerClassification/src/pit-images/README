@@ -1,0 +1,16 @@
+In den Unterordnern befinden sich die Bilder der einzelnen
+Klassen entsprechend ihrer medizinischen Klassifizierung.
+
+Insgesamt beinhaltet die Bilddatenbank 716 Bilder.
+
+Die Datei "patientmapping.csv" beinhaltet eine Zuordnung
+für jedes Bild zum entsprechenden Patienten (die Patienten
+haben eine eindeutige Nummer). Die Datei hat also 716 Zeilen.
+
+Die Zeile
+
+  AKH0083-cut-1112629338358.png;15
+
+bedeutet zum Beispiel, dass das Bild AKH0083-cut-1112629338358.png 
+vom Patienten mit der Nummer 15 stammt.
+
